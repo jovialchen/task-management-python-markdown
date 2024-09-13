@@ -1,0 +1,12 @@
+# For all Jupyter Notebook
+ipykernel
+
+# for report of the time
+seaborn
+markdown
+matplotlib
+pandas
+
+# for report of money
+openpyxl
+tabulate
