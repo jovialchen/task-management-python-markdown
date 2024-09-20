@@ -98,7 +98,7 @@ revisit_frequency: None
 !!! Ctrl +Shift + P :Show Graph
 * **Placeholders:** 空link
 * **Orphans:** 没有link到任何其他的地方的笔记
-Another notes taking extension: Dendron
+* Another notes taking extension: Dendron
 ---
   
 ### Marp
