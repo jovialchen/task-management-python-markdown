@@ -2,7 +2,6 @@
 Created: 2024-08-27
 Completed: 2024-08-27
 type: Research
-marp: false
 revisit_frequency: None
 ---
 # 用 VS Code 打造个性化笔记系统

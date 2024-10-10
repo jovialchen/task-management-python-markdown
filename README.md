@@ -144,7 +144,7 @@ This file helps you keep track of recurring tasks that aren't directly tied to s
 * Habits but just occasionaly happen
 * Exercise but not routines
 
-Please see the link here: [text](../../../../tentative_tasks.md)
+Please see the link here:
 ## Update Due Dates for Inattentive Tasks
 
 This script automates updating due dates for tasks marked as "Inattentive" with recurring schedules (weekly, monthly, yearly).
