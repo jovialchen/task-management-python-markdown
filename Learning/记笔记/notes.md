@@ -31,6 +31,8 @@ revisit_frequency: None
   - 解决方案 同步使用Obsidian
     - 手机端Obsidian， reminder插件， 固定格式即可提醒时间
     - 通过icloud进行同步
+    - working copy: 98 RMB
+    - https://utgd.net/article/20315
 - 无法搜索文本以外的内容, 相比之下印象笔记可以搜索手写的pdf文档
 - 没有富文本编辑器.全靠语法渲染.没有个性字体.
 - pdf support会差一些, 相比及之下obsidian可能可以直接修改pdf文档
@@ -38,6 +40,7 @@ revisit_frequency: None
 ---
 ### Markdown：基础且强大 Part 1
 * **AI 辅助写作：** 利用 AI 生成 Markdown 初稿，提高效率。
+* **纯文本!!!!!!:**   兼容性什么的根本不需要考虑
 ---
 ### Markdown：基础且强大 Part 2
 * **相关插件：**
@@ -52,11 +55,11 @@ revisit_frequency: None
 ### Markdown：基础且强大 Part 3
 * **示例：**
   * **HTML：** 实现更复杂的布局和交互。
-    * HTML 示例： [eg1][def] [eg2][def2]
+    * HTML 示例： [eg1](html_example1.md)] [eg2](html_example2.md)
   * **LaTeX：** 精准排版数学公式。
-    * LaTeX 示例： [latex examples][def3]
+    * LaTeX 示例： [latex](equation.md)
   * **Mermaid：** 创建流程图、时序图等。
-    * Mermaid 示例： [mermaid example][def4]
+    * Mermaid 示例： [mermaid](mermaid.md)
         * Mermaid Link: https://mermaid.js.org/
         * Mermaid 优点: 流程图, call flow, 全可以搞定
   * **Emoji：** 丰富笔记表达。
@@ -85,7 +88,7 @@ revisit_frequency: None
 ### 进阶：Python 与 Jupyter Notebook
 * **自动化与数据分析：** 使用 Python 处理数据、构建模型。
 * **Jupyter Notebook：** 交互式编程环境，方便数据探索和可视化。
-  * **示例：** [a link to my file][def5]
+  * **示例：** [ipynb](C1_W3_lecture_nb_01_linear_algebra.ipynb)
 * **环境管理：** Anaconda 用于管理 Python 环境。
 * **依赖管理：** 使用 `requirements.txt` 文件管理项目依赖。也方便同步到其他电脑设备.
 * **all-in-one:**, 我的英语单词复习计划, 每日打卡, 学习计划管理, sqllite建立简单数据库. 周总结, 日总结. 可以完全按照自己的需求定制化
@@ -168,9 +171,3 @@ Markdown to PPT, Amazing tool.
 
 #出发吧专家家
 #github_blog
-
-[def]: html_example1.md
-[def2]: html_example2.md
-[def3]: equation.md
-[def4]: mermaid.md
-[def5]: my_example.ipynb
