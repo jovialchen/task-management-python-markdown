@@ -19,6 +19,7 @@ revisit_frequency: None
       * **kanban:** mark headboard
   * **兼容性强：** 即使文件格式不支持直接打开，VS Code 仍能显示文件。 
   * **Git：** 版本控制和同步。
+    - https://www.coursera.org/programs/eightfold-pliic/learn/getting-started-with-git-and-github
 ---
 
 ### 为什么选择 VS Code？Part 2
@@ -41,6 +42,7 @@ revisit_frequency: None
 ### Markdown：基础且强大 Part 1
 * **AI 辅助写作：** 利用 AI 生成 Markdown 初稿，提高效率。
 * **纯文本!!!!!!:**   兼容性什么的根本不需要考虑
+  * https://www.markdownguide.org/basic-syntax/
 ---
 ### Markdown：基础且强大 Part 2
 * **相关插件：**
@@ -55,7 +57,7 @@ revisit_frequency: None
 ### Markdown：基础且强大 Part 3
 * **示例：**
   * **HTML：** 实现更复杂的布局和交互。
-    * HTML 示例： [eg1](html_example1.md)] [eg2](html_example2.md)
+    * HTML 示例： [eg1](html_example1.md) [eg2](html_example2.md)
   * **LaTeX：** 精准排版数学公式。
     * LaTeX 示例： [latex](equation.md)
   * **Mermaid：** 创建流程图、时序图等。
